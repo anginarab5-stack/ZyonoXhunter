@@ -1,18 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>Tutorial Link di HTML</title>
-    </head>
-    <body>
-      <h1>MENGAPA KITA HARUS MENAATI ATURAN DAN SYATAT</h1>
-      <hr />
-        <p>Jadi mengapa kita perlu menaati syarat dan aturan di komunitas zynoxhunter roblox, jadi ada beberapa faktor yang membuat kami untuk menegaskan agar aturan dan syarat harus di taati, berikut beberapa faktor yang kami hindari<ol>
-          <li>untuk menghindari member yang keluar karena ketidaknyamanan</li>
-          <li>untuk menghindari sesuatu yang membuat member tersinggung bisa dari kata, sifat, dan lain lain</li>
-          <li>untuk menghargai kenyamanan, dan permasalahan pribadi di masing masing member</li> </p>
-          <p>itu adalah faktor mengapa kami harus menegaskan agar aturan dan syarat dapat di taati kareja kejadian 3 faktor tersebut sudah pernah terjadi, oke kamu bisa kembali ke halaman berikut nya </p>
-        <p>
-          <a href="index.html">Kembali ke halaman link</a>
-        </p>
-    </body>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ZynoxHunter</title>
+</head>
+<body>
+
+  <h1>SELAMAT DATANG DI ZYNOXHUNTER</h1>
+  <hr>
+
+  <p>
+    Halo, perkenalkan saya Hamka selaku admin di komunitas marga di Roblox.
+    Saya ingin menyampaikan beberapa informasi tentang ZynoxHunter.
+    Di sini saya akan memberitahu apa itu ZynoxHunter.
+  </p>
+
+  <h3>Berikut Cara dan Syarat Masuk di ZynoxHunter</h3>
+
+  <ol>
+    <li>
+      Mengapa kita harus menaati rules dan syarat masuk di ZynoxHunter?
+      Berikut penjelasannya:
+      <br>
+      <a href="about.html">Mengapa kita harus menaati syarat dan aturan?</a>
+    </li>
+  </ol>
+
+</body>
 </html>
